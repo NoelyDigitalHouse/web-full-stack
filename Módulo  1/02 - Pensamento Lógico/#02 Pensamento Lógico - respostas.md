@@ -1,0 +1,5 @@
+
+
+# Pensamento Lógico - respostas
+---
+

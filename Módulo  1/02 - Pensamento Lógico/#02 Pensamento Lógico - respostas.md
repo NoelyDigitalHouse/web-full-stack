@@ -3,3 +3,4 @@
 # Pensamento Lógico - respostas
 ---
 
+Exercício

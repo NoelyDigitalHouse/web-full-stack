@@ -11,13 +11,10 @@ programa {
         leia(idade)
 
         se(altura >= 1.50 ou idade >= 21) {
-            escreva("voc� pode entrar no brinquedo")
+            escreva("você pode entrar no brinquedo")
         } senao {
-            escreva("voc� n�o pode entrar no brinquedo")
+            escreva("você não pode entrar no brinquedo")
         }
-
-
-
 
     }
 }

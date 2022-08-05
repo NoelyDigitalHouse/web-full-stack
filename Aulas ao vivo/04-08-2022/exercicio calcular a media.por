@@ -8,16 +8,16 @@ programa {
                 somaDasNotas,
                 mediaDasNotas
 
-        escreva("digite a nota de portugu�s: ")
+        escreva("digite a nota de português: ")
         leia(notaDePortugues)
 
-        escreva("digite a nota de matem�tica: ")
+        escreva("digite a nota de matemática: ")
         leia(notaDeMatematica)
 
         escreva("digite a nota de geografia: ")
         leia(notaDeGeografia)
 
-        escreva("digite a nota de hist�ria: ")
+        escreva("digite a nota de história: ")
         leia(notaDeHistoria)
 
         somaDasNotas = notaDePortugues + notaDeMatematica + notaDeGeografia + notaDeHistoria

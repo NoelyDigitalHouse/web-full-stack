@@ -7,12 +7,10 @@ programa {
         leia(idade)
 
         se(idade > 65) {
-            escreva("voc� j� pode se aposentar")
+            escreva("você já pode se aposentar")
         } senao {
-            escreva("voc� ainda n�o pode se aposentar")
+            escreva("você ainda não pode se aposentar")
         }
-
-
 
     }
 }

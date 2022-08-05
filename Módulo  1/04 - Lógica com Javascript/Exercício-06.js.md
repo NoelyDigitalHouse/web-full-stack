@@ -45,7 +45,6 @@ var cartaoDeVisita = nome + " " + sobrenome + " - " + profissao;
     <summary>area de testes</summary>
     --------
     var cartaoDeVisita = `${nome} ${sobrenome} - ${profissao}`;
-
     print(cartaoDeVisita); 
     
 </details>

@@ -20,6 +20,9 @@ aspas no exemplo, pois se o fizéssemos estaríamos criando um valor do tipo str
 Para continuar, defina uma variável eBrasileiro e atribua a ela um valor verdadeiro (booleano).
 */
 
+```javascript
 // Resposta:
 
 var eBrasileiro = true;
+
+```

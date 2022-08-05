@@ -15,6 +15,7 @@ Vamos continuar praticando a declaração de variáveis e atribuição de valore
     ---------------
 */
 
+```javascript
 // Resposta:
 
 var nome = "Noely";
@@ -25,3 +26,4 @@ var filmesFavoritos = [
     "Um Amor Para Recordar",
     "Stranger Things"
 ];
+```

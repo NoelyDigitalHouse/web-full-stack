@@ -21,8 +21,10 @@ por exemplo:
 Para avançar para o próximo exercício, declare a variável saudacao e atribua a ela o texto "Olá, mundo!"
 */
 
+```javascript
 //  Resposta:
 
 var saudacao = "Olá, mundo!";
 
+```
 

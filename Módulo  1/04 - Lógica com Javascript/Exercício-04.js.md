@@ -11,8 +11,11 @@ tipos de dados citados por valores, conforme vimos no material teórico:
     ----------------
 */
 
+```javascript
 // Resposta:
 
 var idade = 26;
 var sobrenome = "Oliveira Gangello";
 var salarioMinimo = 1000.00;
+
+```

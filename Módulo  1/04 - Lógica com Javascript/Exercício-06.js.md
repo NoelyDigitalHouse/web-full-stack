@@ -27,8 +27,13 @@ OBS: no desenvolvimento da variável cartaoDeVisita deixar um espaço entre
 caractere e caractere de concatenação.
 */
 
+```javascript
+// Resposta:
+
 var nome = "Taylor";
 var sobrenome = "Alvarenga";
 var profissao = "Programadora";
 
 var cartaoDeVisita = nome + " " + sobrenome + " - " + profissao;
+
+```

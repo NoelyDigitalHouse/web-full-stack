@@ -6,7 +6,10 @@ Vamos escrever nossas primeiras variáveis juntos. Você irá usar tudo que apre
 Declare duas variáveis chamadas  idade  e  peso,  e atribua um valor numérico a ambas.
 */
 
+```javascript
 // Resposta:
 
 var idade = 26;
 var peso = 90.1;
+
+```

@@ -48,5 +48,4 @@ var cartaoDeVisita = nome + " " + sobrenome + " - " + profissao;
 
     print(cartaoDeVisita); 
     
-    --------
 </details>

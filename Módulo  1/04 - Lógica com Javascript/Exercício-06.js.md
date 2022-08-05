@@ -45,7 +45,7 @@ var cartaoDeVisita = nome + " " + sobrenome + " - " + profissao;
     <summary>area de testes</summary>
     
     Javascript
-    ```Javascript
+    ```javascript
      var cartaoDeVisita = `${nome} ${sobrenome} - ${profissao}`;
      print(cartaoDeVisita); 
     ```

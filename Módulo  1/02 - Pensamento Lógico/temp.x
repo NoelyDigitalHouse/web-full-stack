@@ -15,3 +15,7 @@ duas mensagens: uma com o nome e outra com a idade do usuário.
 Suponha que o usuário seja o Pedro e tenha 32 anos. Assim, após a digitação
 dos dados, seu programa deve exibir as seguintes mensagens:
 “Seu nome é Pedro” e “Você tem 32 anos”.
+
+Exercício: cálculo de média
+No final do bimestre, uma escola aplicou um teste para cada uma das 4 matérias: português, matemática, geografia e história. Só serão aprovados os alunos que tirarem uma nota igual ou superior a 7.
+No Lucidchart, crie um fluxograma que representa um programa que calcule a média das notas e determine se o aluno foi aprovado ou reprovado.

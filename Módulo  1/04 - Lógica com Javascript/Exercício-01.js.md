@@ -1,5 +1,7 @@
 
 
+# Exercício 01
+
 /* 
 Além dos números, há mais um tipo de dados em JavaScript, esse tipo de dados é string.
 

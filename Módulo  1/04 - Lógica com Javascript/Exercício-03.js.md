@@ -1,5 +1,7 @@
 
 
+# Exercício 03
+
 /* 
 Já vimos os tipos de dados número (números) e string (strings de texto), 
 mas em JavaScript há mais um tipo de dados, o tipo de dados booleano. 

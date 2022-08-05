@@ -1,5 +1,7 @@
 
 
+# Exercício 04
+
 /* 
 Escreva no arquivo script as variáveis expostas abaixo substituindo os 
 tipos de dados citados por valores, conforme vimos no material teórico:

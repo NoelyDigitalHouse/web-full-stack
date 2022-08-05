@@ -1,5 +1,7 @@
 
 
+# Exercício 02
+
 /* 
 Vamos escrever nossas primeiras variáveis juntos. Você irá usar tudo que aprendeu anteriormente! 
 

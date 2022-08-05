@@ -40,13 +40,12 @@ var cartaoDeVisita = nome + " " + sobrenome + " - " + profissao;
 
 ```
 
-> area de testes
-+ ```javascript
+
+<details>
+    <summary>area de testes</summary>
+    ```javascript
     var cartaoDeVisita = `${nome} ${sobrenome} - ${profissao}`;
 
     print(cartaoDeVisita); 
     ```
-
-<details>
-    <summary></summary>
 </details>

@@ -43,8 +43,8 @@ var cartaoDeVisita = nome + " " + sobrenome + " - " + profissao;
 
 <details>
     <summary>area de testes</summary>
-    --------
-    var cartaoDeVisita = `${nome} ${sobrenome} - ${profissao}`;
-    print(cartaoDeVisita); 
+    
+    + var cartaoDeVisita = `${nome} ${sobrenome} - ${profissao}`;
+    + print(cartaoDeVisita); 
     
 </details>

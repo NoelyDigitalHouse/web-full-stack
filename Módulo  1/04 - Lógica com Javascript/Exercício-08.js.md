@@ -29,7 +29,7 @@ console.log(outroNumero );
     - resultadoMultiplicacao - contendo a multiplicação de numeroA e numeroB
     - resultadoDivisao - contendo a divisão de numeroA e numeroB
     - resultadoSubtracao - contendo a subtração de numeroA e numeroB
-    -----------------
+    
 
 ```JAVASCRIPT
 // RESPOSTA:

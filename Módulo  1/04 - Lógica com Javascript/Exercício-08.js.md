@@ -21,8 +21,9 @@ let outroNumero = umNumero + 1;
 console.log(outroNumero );
 // O valor atribuído à outroNumero será impresso no console. Veremos 125. 
 ```
+    Vamos ver se você entendeu: 
     -----------------
-    Vamos ver se você entendeu: Declare duas variáveis ​​numeroA e numeroB e atribua valores numéricos à elas. Depois, crie as seguintes variáveis:
+    Declare duas variáveis ​​numeroA e numeroB e atribua valores numéricos à elas. Depois, crie as seguintes variáveis:
 
     - resultadoSoma - contendo a soma de numeroA e numeroB
     - resultadoMultiplicacao - contendo a multiplicação de numeroA e numeroB

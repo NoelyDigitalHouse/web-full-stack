@@ -30,10 +30,10 @@ E se fizermos a alguém a seguinte pergunta: "2 é menor que 1?" Nesse caso, as 
  
  
 
-> Para continuar, você deve definir duas variáveis: 
-   > a numeroMenor e numeroMaior, e atribuir a elas diferentes valores numéricos de acordo com seus nomes.
-> Em seguida, defina a variável eMenor, ela deve receber o resultado da comparação se numeroMenor é menor que numeroMaior; 
-> Crie mais uma variável eMaior, com o resultado da comparação se numeroMenor é maior que - numeroMaior.
+- Para continuar, você deve definir duas variáveis: 
+    a numeroMenor e numeroMaior, e atribuir a elas diferentes valores numéricos de acordo com seus nomes.
+- Em seguida, defina a variável eMenor, ela deve receber o resultado da comparação se numeroMenor é menor que numeroMaior; 
+- Crie mais uma variável eMaior, com o resultado da comparação se numeroMenor é maior que - numeroMaior.
 
 ```javascript
 // Resposta:

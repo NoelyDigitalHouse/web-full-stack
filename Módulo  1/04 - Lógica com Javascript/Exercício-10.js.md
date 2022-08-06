@@ -24,9 +24,9 @@ Isso significa que "2> 1" representa um valor verdadeiro. Também poderíamos te
 
 E se fizermos a alguém a seguinte pergunta: "2 é menor que 1?" Nesse caso, as pessoas nos responderiam: "Isso é falso, 2 não é menor que 1". Novamente, a mesma coisa acontece em JavaScript, mas nós o consultamos da seguinte maneira:
 
-    ----------
+    ---javascript
     var outraOperacao = 2  < 1;
-    ----------
+    ---
  
  
 

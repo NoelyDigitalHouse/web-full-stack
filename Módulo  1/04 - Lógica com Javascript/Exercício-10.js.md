@@ -36,7 +36,8 @@ var outraOperacao = 2  < 1;
 - Crie mais uma variável eMaior, com o resultado da comparação se numeroMenor é maior que - numeroMaior.
 
 ```javascript
-// Resposta:
+// RESPOSTA:
+// ================================================
 
 var numeroMenor = 10;
 var numeroMaior = 20;

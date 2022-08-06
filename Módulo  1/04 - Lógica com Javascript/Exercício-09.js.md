@@ -18,7 +18,8 @@ Sua missão é completar o código para fazer com que o sistema calcule a média
 Atribua o resultado dessa conta a uma variável chamada media
 
 ```javascript
-// Resposta:
+// RESPOSTA:
+// ================================================
 
 let trabalhoDeHistoria      = 8.0
 let trabalhoDeMatematica    = 7.0

@@ -25,7 +25,8 @@ let valorTotal = ?
 
 
 ```javascript
-// Resposta:
+// RESPOSTA:
+// ================================================
 
 let janeiro = 100
 let fevereiro = 300

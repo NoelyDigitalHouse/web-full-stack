@@ -2,23 +2,24 @@
 
 # Exercício 05
 
-/* 
+
 Vamos continuar praticando a declaração de variáveis e atribuição de valores: 
 
-    Declare cinco variáveis com a nomenclatura a seguir e atribua a tais, 
-    um valor que atenda o tipo de dado indicado:
+- Declare cinco variáveis com a nomenclatura a seguir e atribua a tais, 
+- um valor que atenda o tipo de dado indicado:
 
-    ---------------
+    
         - nome (string) 
         - idade (number)
         - altura (float)
         - possuiPet (boolean)
         - filmesFavoritos (array)
-    ---------------
-*/
+    
+
 
 ```javascript
-// Resposta:
+// RESPOSTA:
+// ================================================
 
 var nome = "Noely";
 var idade = 26;
